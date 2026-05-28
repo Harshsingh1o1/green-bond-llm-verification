@@ -4,8 +4,7 @@
 "Can LLMs Detect Greenwashing? Evaluating AI-Assisted 
 Verification of Sovereign Green Bond Impact Reports in India"
 
-Author: Harsh Singh, Invest UP, Government of Uttar Pradesh
-Contact: singh.harsh.live@gmail.com
+Author: Harsh Singh, singh.harsh.live@gmail.com
 
 ---
 
