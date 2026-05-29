@@ -1,0 +1,201 @@
+{
+  "dimensions": [
+    {
+      "id": "D1",
+      "name": "Use of Proceeds & Allocation Transparency",
+      "weight": 0.25,
+      "criteria": [
+        {
+          "id": "C1",
+          "name": "Explicit proceeds allocation disclosure",
+          "description": "Does the report specify exactly how much of the proceeds were allocated to each eligible project category (e.g. renewable energy, clean transport, climate adaptation)?",
+          "weight": "High"
+        },
+        {
+          "id": "C2",
+          "name": "Unallocated proceeds explanation",
+          "description": "If proceeds are partially or fully unallocated at time of reporting, is this explicitly disclosed along with interim management of unallocated funds?",
+          "weight": "High"
+        },
+        {
+          "id": "C3",
+          "name": "Project-level granularity",
+          "description": "Are individual projects or project portfolios identified with enough specificity to allow independent verification (e.g. project name, location, sector, amount)?",
+          "weight": "Medium"
+        },
+        {
+          "id": "C4",
+          "name": "Alignment with eligible categories",
+          "description": "Are allocated categories clearly mapped to the issuer's defined green bond framework and internationally recognized standards (ICMA/CBI)?",
+          "weight": "High"
+        },
+        {
+          "id": "C5",
+          "name": "Exclusion criteria disclosed",
+          "description": "Does the report disclose what types of projects or assets are explicitly excluded from proceeds use?",
+          "weight": "Low"
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "name": "Impact Metrics & Measurement Quality",
+      "weight": 0.25,
+      "criteria": [
+        {
+          "id": "C6",
+          "name": "Quantified impact metrics reported",
+          "description": "Does the report include at least one quantified impact metric per project category (e.g. MWh of renewable energy generated, tonnes of CO2 avoided, km of clean transport)?",
+          "weight": "High"
+        },
+        {
+          "id": "C7",
+          "name": "Methodology for impact calculation",
+          "description": "Is the methodology for calculating impact metrics explicitly described, including assumptions, system boundaries, and emission factors used?",
+          "weight": "High"
+        },
+        {
+          "id": "C8",
+          "name": "Baseline data disclosed",
+          "description": "Does the report provide baseline data against which impact is measured (e.g. pre-project emissions, grid emission factor, benchmark reference)?",
+          "weight": "High"
+        },
+        {
+          "id": "C9",
+          "name": "Consistency of metrics across reporting periods",
+          "description": "If this is not the first impact report, are metrics consistent with prior periods, or are changes in methodology explicitly noted and justified?",
+          "weight": "Medium"
+        },
+        {
+          "id": "C10",
+          "name": "Use of standardized reporting frameworks",
+          "description": "Does the report reference recognized impact reporting frameworks (e.g. ICMA Harmonized Framework, TCFD, GRI, CDP)?",
+          "weight": "Medium"
+        },
+        {
+          "id": "C11",
+          "name": "Disaggregation of impact by project",
+          "description": "Are aggregate impact figures broken down by individual project or category, rather than reported only as a single aggregate number?",
+          "weight": "Medium"
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "name": "Additionality Evidence",
+      "weight": 0.20,
+      "criteria": [
+        {
+          "id": "C12",
+          "name": "Counterfactual scenario addressed",
+          "description": "Does the report address whether the funded project would have proceeded without green bond financing (i.e. is there explicit or implicit counterfactual reasoning)?",
+          "weight": "High"
+        },
+        {
+          "id": "C13",
+          "name": "Financial additionality claim",
+          "description": "Does the issuer claim that green bond proceeds enabled financing that would not have been available through conventional instruments? Is this substantiated?",
+          "weight": "High"
+        },
+        {
+          "id": "C14",
+          "name": "Environmental additionality beyond BAU",
+          "description": "Does the report demonstrate that environmental outcomes exceed what business-as-usual or regulatory compliance would require anyway?",
+          "weight": "High"
+        },
+        {
+          "id": "C15",
+          "name": "Causal linkage between proceeds and outcome",
+          "description": "Is there a clear and traceable causal chain from bond proceeds to project implementation to environmental outcome, or are impacts attributed loosely?",
+          "weight": "High"
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "name": "Third-Party Verification & Governance",
+      "weight": 0.20,
+      "criteria": [
+        {
+          "id": "C16",
+          "name": "External review obtained",
+          "description": "Has the green bond or its impact report been reviewed by an accredited second party opinion (SPO) provider, verifier, or rating agency?",
+          "weight": "High"
+        },
+        {
+          "id": "C17",
+          "name": "Reviewer identity and credentials disclosed",
+          "description": "Is the name, accreditation status, and scope of the external reviewer explicitly disclosed?",
+          "weight": "High"
+        },
+        {
+          "id": "C18",
+          "name": "Scope of verification clearly defined",
+          "description": "Does the report specify what exactly was verified (framework alignment, proceeds allocation, impact figures, or all of the above)?",
+          "weight": "Medium"
+        },
+        {
+          "id": "C19",
+          "name": "Internal governance mechanism described",
+          "description": "Is there a description of the internal governance structure for green bond management (e.g. green bond committee, internal audit, treasury oversight)?",
+          "weight": "Medium"
+        },
+        {
+          "id": "C20",
+          "name": "Conflict of interest disclosures",
+          "description": "Does the report or external review document address potential conflicts of interest between the issuer and the verifier?",
+          "weight": "Low"
+        }
+      ]
+    },
+    {
+      "id": "D5",
+      "name": "Transparency, Accessibility & Ongoing Disclosure",
+      "weight": 0.10,
+      "criteria": [
+        {
+          "id": "C21",
+          "name": "Report publicly accessible",
+          "description": "Is the impact report freely and publicly available (not behind a paywall or registration wall)?",
+          "weight": "High"
+        },
+        {
+          "id": "C22",
+          "name": "Reporting frequency and timeliness",
+          "description": "Is the report published annually or within a reasonable time after the reporting period ends (within 6 months of fiscal year-end)?",
+          "weight": "Medium"
+        },
+        {
+          "id": "C23",
+          "name": "Machine-readable or structured data provided",
+          "description": "Are key impact figures provided in a structured or machine-readable format (e.g. CSV, Excel annex, data tables) in addition to narrative text?",
+          "weight": "Low"
+        },
+        {
+          "id": "C24",
+          "name": "Forward-looking commitments disclosed",
+          "description": "Does the issuer commit to ongoing impact reporting for the full tenor of the bond, not just the inaugural report?",
+          "weight": "Medium"
+        },
+        {
+          "id": "C25",
+          "name": "Material risks and negative impacts acknowledged",
+          "description": "Does the report disclose any material risks, negative externalities, or trade-offs associated with funded projects (e.g. land use, resettlement, ecological impact)?",
+          "weight": "Medium"
+        },
+        {
+          "id": "C26",
+          "name": "Contact or grievance mechanism disclosed",
+          "description": "Is there a mechanism for stakeholders to raise concerns or request additional information about the green bond or its projects?",
+          "weight": "Low"
+        }
+      ]
+    }
+  ],
+  "scoring_scale": {
+    "FM": "Fully Met",
+    "PM": "Partially Met",
+    "NM": "Not Met",
+    "CD": "Cannot Determine"
+  }
+}
