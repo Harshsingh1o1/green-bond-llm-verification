@@ -62,7 +62,8 @@ If you use this rubric or pipeline in your research, please cite:
 Singh, H. (2025). Can LLMs detect greenwashing? Evaluating 
 AI-assisted verification of sovereign green bond impact reports 
 in India. SSRN Working Paper.
-https://ssrn.com/abstract=[your_new_ssrn_id]
+ssrn.com/abstract=6851501
+
 
 ---
 
