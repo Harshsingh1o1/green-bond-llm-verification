@@ -1,0 +1,187 @@
+{
+  "source_sha256": "07505dc142aba7d81accea61a984a3112015aafdba79cddedff3d99d0a698590",
+  "assessments": [
+    {
+      "criterion_id": "C1",
+      "score": "FM",
+      "page": 1,
+      "quote": "All INR 100 crore was allocated: INR 60 crore to solar and INR 40 crore to rail.",
+      "justification": "The full amount is split between both eligible sectors."
+    },
+    {
+      "criterion_id": "C2",
+      "score": "FM",
+      "page": 1,
+      "quote": "The closing unallocated balance was zero.",
+      "justification": "The issuer discloses a zero closing balance, so there is no interim balance to manage."
+    },
+    {
+      "criterion_id": "C3",
+      "score": "FM",
+      "page": 1,
+      "quote": "Riverline Electric Railway, East District: INR 40 crore for rail electrification.",
+      "justification": "Named projects have a sector, location and allocation; Riverline is one example."
+    },
+    {
+      "criterion_id": "C4",
+      "score": "CD",
+      "page": null,
+      "quote": "",
+      "justification": "The issuer does not map the sectors to its own framework and a standard."
+    },
+    {
+      "criterion_id": "C5",
+      "score": "FM",
+      "page": 1,
+      "quote": "The framework excludes coal, oil and gas infrastructure.",
+      "justification": "The issuer identifies three types of excluded infrastructure."
+    },
+    {
+      "criterion_id": "C6",
+      "score": "FM",
+      "page": 1,
+      "quote": "Sunfield generated 90,000 MWh. Riverline electrified 18 km of railway.",
+      "justification": "There is a quantified output for each financed category."
+    },
+    {
+      "criterion_id": "C7",
+      "score": "PM",
+      "page": 1,
+      "quote": "Solar avoided emissions use a baseline grid factor of 0.7 tCO2e per MWh.",
+      "justification": "The disclosure names the solar baseline factor but gives limited assumptions and boundaries."
+    },
+    {
+      "criterion_id": "C8",
+      "score": "FM",
+      "page": 1,
+      "quote": "Solar avoided emissions use a baseline grid factor of 0.7 tCO2e per MWh.",
+      "justification": "An explicit reference grid factor is supplied for solar."
+    },
+    {
+      "criterion_id": "C9",
+      "score": "CD",
+      "page": null,
+      "quote": "",
+      "justification": "No earlier reporting period is available for comparison."
+    },
+    {
+      "criterion_id": "C10",
+      "score": "FM",
+      "page": 1,
+      "quote": "This inaugural report uses the ICMA Harmonised Framework for Impact Reporting.",
+      "justification": "The report identifies an impact reporting framework."
+    },
+    {
+      "criterion_id": "C11",
+      "score": "FM",
+      "page": 1,
+      "quote": "Sunfield generated 90,000 MWh. Riverline electrified 18 km of railway.",
+      "justification": "The two outputs are attributed to separate projects."
+    },
+    {
+      "criterion_id": "C12",
+      "score": "FM",
+      "page": 2,
+      "quote": "In the absence of bond financing, both projects would have proceeded on schedule.",
+      "justification": "The issuer explicitly describes what would have happened without the bond."
+    },
+    {
+      "criterion_id": "C13",
+      "score": "NM",
+      "page": 2,
+      "quote": "We claim no incremental access to finance from this issue.",
+      "justification": "The issuer explicitly disclaims incremental financing."
+    },
+    {
+      "criterion_id": "C14",
+      "score": "CD",
+      "page": null,
+      "quote": "",
+      "justification": "No business-as-usual environmental performance comparison is supplied."
+    },
+    {
+      "criterion_id": "C15",
+      "score": "PM",
+      "page": 1,
+      "quote": "Sunfield generated 90,000 MWh. Riverline electrified 18 km of railway.",
+      "justification": "Named project outputs are reported, but the contribution of financing is uncertain."
+    },
+    {
+      "criterion_id": "C16",
+      "score": "NM",
+      "page": 2,
+      "quote": "No external review of the framework or this report was commissioned.",
+      "justification": "The report explicitly states that no external review was commissioned."
+    },
+    {
+      "criterion_id": "C17",
+      "score": "CD",
+      "page": null,
+      "quote": "",
+      "justification": "There is no reviewer whose credentials can be assessed."
+    },
+    {
+      "criterion_id": "C18",
+      "score": "CD",
+      "page": null,
+      "quote": "",
+      "justification": "There is no verification engagement whose scope can be assessed."
+    },
+    {
+      "criterion_id": "C19",
+      "score": "FM",
+      "page": 2,
+      "quote": "The Green Bond Committee approves eligible expenditure each quarter.",
+      "justification": "A named committee approves eligible expenditure on a specified schedule."
+    },
+    {
+      "criterion_id": "C20",
+      "score": "CD",
+      "page": null,
+      "quote": "",
+      "justification": "There is no evidence on issuer-verifier conflicts."
+    },
+    {
+      "criterion_id": "C21",
+      "score": "CD",
+      "page": null,
+      "quote": "",
+      "justification": "Possession of this document does not establish public accessibility."
+    },
+    {
+      "criterion_id": "C22",
+      "score": "FM",
+      "page": 1,
+      "quote": "Reporting period: year ended 31 March 2025. Published: 30 June 2025.",
+      "justification": "The publication date is three months after year-end."
+    },
+    {
+      "criterion_id": "C23",
+      "score": "CD",
+      "page": null,
+      "quote": "",
+      "justification": "No accompanying machine-readable dataset is available in this input."
+    },
+    {
+      "criterion_id": "C24",
+      "score": "FM",
+      "page": 2,
+      "quote": "The issuer will publish an annual impact report until bond maturity.",
+      "justification": "Annual impact reporting is promised for the full tenor."
+    },
+    {
+      "criterion_id": "C25",
+      "score": "FM",
+      "page": 2,
+      "quote": "Land acquisition at Riverline displaced two businesses; compensation is pending.",
+      "justification": "The report identifies displacement and outstanding compensation."
+    },
+    {
+      "criterion_id": "C26",
+      "score": "FM",
+      "page": 2,
+      "quote": "Stakeholders may submit grievances to the Treasury complaints desk.",
+      "justification": "A Treasury complaints desk is available for stakeholder concerns."
+    }
+  ]
+}
